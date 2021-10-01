@@ -1,4 +1,6 @@
-# pstat134-project-2019
+NBA Injuries:
+A Study of How Aggressive Play Style Effects Likelihood of Injury
+
 Group Members: 
 Elias Rodriguez, Taiga Schwarz, Cameron Hosseiniyar
 
